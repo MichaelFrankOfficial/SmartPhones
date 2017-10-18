@@ -1,0 +1,13 @@
+
+    body{
+        background-image: url("http://s3.amazonaws.com/digitaltrends-uploads-prod/2016/01/iphone-android-transer-comparison-apple-google-smartphones-nexus-s5-s6-samsung-htc.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    h1{
+        font-family: 'Passion One', cursive;
+        text-align: center;
+        font-size: 200px;
+        margin-top: 280px;
+        color:rgb(240, 8, 8);
+    }
